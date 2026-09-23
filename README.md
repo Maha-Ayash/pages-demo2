@@ -14,7 +14,7 @@ mit einem Webbrowser geöffnet wird.
 
 Die Webseite ist hier erreichbar:
 
-https://Maha-Ayash.github.io/DEIN-REPOSITORY/
+https://Maha-Ayash.github.io/pages-demo2/
 
 ## Lizenz
 
